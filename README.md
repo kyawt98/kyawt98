@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kyawt</h1>
-<h3 align="center">A passionate software developer from Myanamr</h3>
-
+<!-- <h3 align="center">A passionate software developer from Myanamr</h3>
+ -->
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **kotlin, react and other frontend tools**
