@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **kotlin, react and other frontend tools**
-- 📫 Say Hello! to my gmail 👇�
+- 📫 Say Hello! to my gmail 👇
 ```diff
 @@ kyawtkyawtsan1998@gmail.com@@
 ```
