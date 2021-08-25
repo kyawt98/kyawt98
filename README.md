@@ -1,12 +1,13 @@
-<h1 align="center">Hi 👋, I'm Kyawt</h1>
+<h1 align="left">Hi 👋, I'm Kyawt 🌻</h1>
 <!-- <h3 align="center">A passionate software developer from Myanamr</h3>
  -->
 - 🌱 I’m currently learning **React JS**
 
 - 💬 Ask me about **kotlin, react and other frontend tools**
-
-- 📫 How to reach me **kyawtkyawtsan1998@gmail.com**
-
+- 📫 Say Hello! to my gmail 👇�
+```diff
+@@ kyawtkyawtsan1998@gmail.com@@
+```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.facebook.com/kyawt.1998" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-58/128/social_network_web_media_-21-128.png" alt="kyawt" height="30" width="40" /></a>
