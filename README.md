@@ -6,7 +6,7 @@
 - 💬 Ask me about **kotlin, react and other frontend tools**
 - 📫 Say Hello! to my gmail 👇
 ```diff
-@@ kyawtkyawtsan1998@gmail.com@@
+@@ kyawtkyawtsan1998@gmail.com @@
 ```
 <h3 align="left">Connect with me:</h3>
 <p align="left">
