@@ -2,8 +2,8 @@
 <h2>Hi, I'm Kyawt <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
 </div>
 <div align="center">
- <img align="left" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
-</div>
+ <img align="center" width="150" height="150" src="https://github.com/M0nica/M0nica/blob/main/octomonica/m0nica-octocat-rotating.gif?raw=true">
+</div> <br>
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp; I’m currently learning   <code> <img height="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"> </code>
 
@@ -13,6 +13,9 @@
 ```diff
 @@ kyawtkyawtsan1998@gmail.com @@
 ```
+
+<br>
+
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Here is my personal website</i></b>&nbsp; https://kyawt98.github.io
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Connect with me:</i></b> &nbsp; <a href="https://www.facebook.com/kyawt.1998" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/145/145802.png" alt="kyawt" height="30" width="30" /></a>
@@ -25,6 +28,6 @@
 <img src="https://cdn.iconscout.com/icon/free/png-64/php-3772876-3146839.png" width="30" />
 <img src="https://cdn.iconscout.com/icon/free/png-64/react-3-1175109.png" width="30" />
 <img src="https://cdn.iconscout.com/icon/free/png-64/kotlin-2038873-1720086.png" width="30" />
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawt98&theme=radical&show_icons=true alt="kyawt98" /></p>
+<br>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kyawt98&theme=radical&show_icons=true alt="kyawt98" /></p>
 
