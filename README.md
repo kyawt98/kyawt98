@@ -12,12 +12,12 @@
 ```diff
 @@ kyawtkyawtsan1998@gmail.com @@
 ```
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Here is my personal website</i></b>https://kyawt98.github.io
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Here is my personal website</i></b>&nbsp; https://kyawt98.github.io
 
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Connect with me:</i></b><a href="https://www.facebook.com/kyawt.1998" target="blank"><img align="center" src="https://cdn1.iconfinder.com/data/icons/social-58/128/social_network_web_media_-21-128.png" alt="kyawt" height="30" width="40" /></a>
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Connect with me:</i></b> &nbsp; <a href="https://www.facebook.com/kyawt.1998" target="blank"><img align="center" src="https://image.flaticon.com/icons/png/128/145/145802.png" alt="kyawt" height="30" width="30" /></a>
 
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" /> <b><i>Languages and Tools I know</i></b> <br>
-<img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png" width="30" />
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://cdn.iconscout.com/icon/free/png-64/html-59-225995.png" width="30" />
 <img src="https://cdn.iconscout.com/icon/free/png-64/css-37-226088.png" width="30" />
 <img src="https://cdn.iconscout.com/icon/free/png-64/javascript-2752148-2284965.png" width="30" />
 <img src="https://cdn.iconscout.com/icon/free/png-64/bootstrap-3521314-2944733.png" width="30" />
